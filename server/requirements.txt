@@ -1,0 +1,8 @@
+accelerate
+transformers
+kernels
+torch
+bitsandbytes
+uvicorn
+fastapi
+pydantic
